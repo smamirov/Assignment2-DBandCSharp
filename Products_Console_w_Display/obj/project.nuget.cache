@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWpD3yqF9ExPQi3kd+bUjnztVsvCEgbAdqJGhCDKN9PwV2M4Jo9mGK+NXEK3Muz6k6J9k2rJNDKcjaq2UP3Aag==",
+  "success": true,
+  "projectFilePath": "/Users/saidmamirov/dev/CS190/Assignment2-DBandC#/Products_Console_w_Display/Products_Console_w_Display.csproj",
+  "expectedPackageFiles": [
+    "/Users/saidmamirov/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/saidmamirov/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/saidmamirov/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
